@@ -92,7 +92,7 @@ Python                   1 repo              ███████████�
  Last Updated on 11/06/2022 15:51:28 UTC
 <!--END_SECTION:waka-->
 
-<h2>My Social links<h2>
+<h2>My Social links <h2>
 <p align="center">
    <a href="https://linkedin.com/in/fotsing-tchoupe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
