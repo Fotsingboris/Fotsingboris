@@ -12,7 +12,8 @@
 
 <h2>My Social links<h2>
 <p align="center">
-   <a href="https://linkedin.com/in/fotsing-tchoupe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://linkedin.com/in/Fotsingboris-Mathieu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://instagram.com/Fotsingboris"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   </p>
 <hr>
 😊
