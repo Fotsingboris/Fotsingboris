@@ -54,16 +54,16 @@ Sunday       5 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Other                    1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-library                  1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,7 +80,7 @@ Python                   2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 00:28:52 UTC
+ Last Updated on 01/07/2022 00:35:15 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
