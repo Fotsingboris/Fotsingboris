@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -80,7 +80,7 @@ Python                   2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2022 00:32:47 UTC
+ Last Updated on 03/07/2022 00:32:31 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
