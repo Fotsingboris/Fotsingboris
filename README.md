@@ -80,7 +80,7 @@ Python                   2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 00:35:37 UTC
+ Last Updated on 15/07/2022 00:37:34 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
