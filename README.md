@@ -17,7 +17,7 @@
 
 > 🏆 78 Contributions in the Year 2022
  > 
-> 📦 1.6 kB Used in GitHub's Storage 
+> 📦 1.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,8 +54,8 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Blade Template           4 hrs 19 mins       █████████████░░░░░░░░░░░░   53.46% 
-PHP                      3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.81% 
+Blade Template           4 hrs 19 mins       █████████████░░░░░░░░░░░░   53.47% 
+PHP                      3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.79% 
 Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
@@ -86,7 +86,7 @@ PHP                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 00:37:05 UTC
+ Last Updated on 11/09/2022 00:34:52 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
