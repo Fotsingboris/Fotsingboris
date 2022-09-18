@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,7 +17,7 @@
 
 > 🏆 78 Contributions in the Year 2022
  > 
-> 📦 1.6 kB Used in GitHub's Storage 
+> 📦 1.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,17 +54,17 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Blade Template           1 hr 14 mins        ██████████████░░░░░░░░░░░   59.32% 
-PHP                      51 mins             ██████████░░░░░░░░░░░░░░░   40.68%
+Blade Template           3 hrs 19 mins       ████████████████░░░░░░░░░   65.2% 
+PHP                      1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   34.8%
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
+VS Code                  5 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-storms                   2 hrs 5 mins        █████████████████████████   100.0%
+storms                   5 hrs 5 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.0%
+Windows                  5 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +83,7 @@ PHP                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 00:33:17 UTC
+ Last Updated on 18/09/2022 00:40:21 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
