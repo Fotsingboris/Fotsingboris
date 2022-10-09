@@ -54,20 +54,16 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Markdown                 32 mins             ██████████████░░░░░░░░░░░   58.85% 
-JavaScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.1% 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.51%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hactoberfest2022         54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,7 +82,7 @@ PHP                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2022 00:39:58 UTC
+ Last Updated on 09/10/2022 00:38:55 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
