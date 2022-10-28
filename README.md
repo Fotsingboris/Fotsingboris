@@ -54,16 +54,16 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Dart                     11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-new_app                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -82,7 +82,7 @@ PHP                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 00:39:57 UTC
+ Last Updated on 28/10/2022 00:41:02 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
