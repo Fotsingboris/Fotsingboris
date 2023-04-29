@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 19.8 kB Used in GitHub's Storage 
+> 📦 19.7 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2023
  > 
@@ -52,16 +52,20 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           1 hr 13 mins        ████████████░░░░░░░░░░░░░   49.37 % 
+PHP                      1 hr 9 mins         ████████████░░░░░░░░░░░░░   46.92 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Ecom                     2 hrs 18 mins       ███████████████████████░░   93.77 % 
+test                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 18 mins       ███████████████████████░░   93.77 % 
+Linux                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -81,7 +85,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2023 00:29:16 UTC
+ Last Updated on 29/04/2023 00:26:20 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
