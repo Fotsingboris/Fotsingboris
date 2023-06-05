@@ -89,7 +89,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 00:34:46 UTC
+ Last Updated on 05/06/2023 00:31:23 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
