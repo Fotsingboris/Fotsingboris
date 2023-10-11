@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 20.5 kB Used in GitHub's Storage 
+> 📦 20.4 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2023
  > 
@@ -89,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2023 00:25:38 UTC
+ Last Updated on 11/10/2023 00:25:38 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
