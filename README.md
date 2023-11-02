@@ -52,18 +52,16 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-PHP                      36 mins             ███████████████████████░░   91.23 % 
-Blade Template           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-azali                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -83,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2023 00:27:42 UTC
+ Last Updated on 02/11/2023 00:25:45 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
