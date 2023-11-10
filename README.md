@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,17 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 55 mins        █████████████████████████   99.69 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+forumbackend             1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -81,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fotsingboris/Fotsingboris/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2023 00:26:08 UTC
+ Last Updated on 10/11/2023 00:25:58 UTC
 <!--END_SECTION:waka-->
 
 <h2>My Social links <h2>
