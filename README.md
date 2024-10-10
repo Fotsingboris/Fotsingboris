@@ -2,8 +2,11 @@
 <h3 align="center">A passionate computer engineer from Cameroon</h3>
 
 - 🌱 I’m currently learning **Machine learning**
+- 💻 I’m a **Software Developer** and **Project Analyst**
 
 - 📫 How to reach me **fotsingtchoupe1@gmail.com**
+- 📱 WhatsApp: **697907096**
+- 💼 Connect with me on LinkedIn: Mathieu Boris
 
 
 
