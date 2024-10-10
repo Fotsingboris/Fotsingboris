@@ -5,9 +5,6 @@
 - 💻 I’m a **Software Developer** and **Project Analyst**
 
 - 📫 How to reach me **fotsingtchoupe1@gmail.com**
-- 📱 WhatsApp: **697907096**
-- 💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/mathieu-boris-64b68122b">Fotsingboris</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mathieu-boris-64b68122b" target="blank">
