@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **fotsingtchoupe1@gmail.com**
 - 📱 WhatsApp: **697907096**
-- 💼 Connect with me on LinkedIn: Mathieu Boris
-
+- 💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/mathieu-boris-64b68122b">Fotsingboris</a>
 
 
 
