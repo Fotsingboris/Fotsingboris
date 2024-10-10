@@ -8,6 +8,16 @@
 - 📱 WhatsApp: **697907096**
 - 💼 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/mathieu-boris-64b68122b">Fotsingboris</a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mathieu-boris-64b68122b" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fotsingboris" height="30" width="40" />
+</a>
+<a href="https://wa.me/697907096" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Fotsingboris" height="30" width="40" />
+</a>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
