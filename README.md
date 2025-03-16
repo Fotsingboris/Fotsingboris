@@ -27,3 +27,14 @@
 
 <hr>
 😊
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Fotsingboris">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Fotsingboris&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=ffdb00&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+  </a> 
+</p>
+
+<hr>
+😊
+
