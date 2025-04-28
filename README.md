@@ -1,40 +1,87 @@
 <h1 align="center">Hi 👋, I am Fotsing Tchoupe Mathieu Boris</h1>
 <h3 align="center">A passionate computer engineer from Cameroon</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine Learning**
 - 💻 I’m a **Software Developer** and **Project Analyst**
+- 🎥 I create mini-projects on [BORISTECH22 YouTube Channel](https://youtube.com/@boristech22?si=t6wZHYb2n9DW8SRU)
+- 📝 I write articles on [Hooyia.net](https://hooyia.net)
+- 💬 I am passionate about **AI and Machine Learning**
+- 📫 How to reach me: **fotsingtchoupe1@gmail.com**
 
-- 📫 How to reach me **fotsingtchoupe1@gmail.com**
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/mathieu-boris-64b68122b" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fotsingboris" height="30" width="40" />
+<a href="https://www.linkedin.com/in/mathieu-boris-64b68122b" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://wa.me/697907096" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Fotsingboris" height="30" width="40" />
-</a>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="color: white;" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<a href="https://wa.me/697907096" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Fotsingboris"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Fotsingboris" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fotsingboris&" alt="Fotsingboris" /></p>
+---
 
- Last Updated on 07/06/2024 00:30:38 UTC
+### 🛠️ Languages & Tools
 
-<hr>
-😊
+#### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1E90FF)
+![Django Rest](https://img.shields.io/badge/Django_Rest_Framework-1E90FF?style=flat-square&logo=django&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=flat-square&logo=css3&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=1E90FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1E90FF?style=flat-square&logo=tailwind-css&logoColor=black)
 
-<!-- Activity Graph -->
+#### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=1E90FF)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1E90FF?style=flat-square&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/Git-1E90FF?style=flat-square&logo=git&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=1E90FF)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=1E90FF)
+![Postman](https://img.shields.io/badge/Postman-1E90FF?style=flat-square&logo=postman&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-1E90FF?style=flat-square&logo=swagger&logoColor=black)
+![ReDoc](https://img.shields.io/badge/ReDoc-000000?style=flat-square&logo=redocly&logoColor=1E90FF)
+![Crontab](https://img.shields.io/badge/Cron-000000?style=flat-square&logo=linux&logoColor=1E90FF)
+![Linux](https://img.shields.io/badge/Linux-1E90FF?style=flat-square&logo=linux&logoColor=black)
+
+#### 🛢 Databases
+![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=flat-square&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=1E90FF)
+![SQLite](https://img.shields.io/badge/SQLite-1E90FF?style=flat-square&logo=sqlite&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=1E90FF)
+
+#### 🤖 AI & Hardware
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E90FF?style=flat-square&logo=tensorflow&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=mathworks&logoColor=1E90FF)
+![Arduino](https://img.shields.io/badge/Arduino-1E90FF?style=flat-square&logo=arduino&logoColor=black)
+
+---
+
+### ☕ Support
+<p>
+<a href="https://www.buymeacoffee.com/Fotsingboris">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fotsingboris&theme=blue-green&hide_border=true" alt="Fotsingboris" />
+</p>
+
 <p align="center">
   <a href="https://github.com/Fotsingboris">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Fotsingboris&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=ffdb00&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Fotsingboris&bg_color=0d1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
   </a> 
 </p>
 
-<hr>
+---
+
 😊
+
+_Last updated on 07/06/2024_
 
