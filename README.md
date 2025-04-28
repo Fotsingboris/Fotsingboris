@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I am Fotsing Tchoupe Mathieu Boris</h1>
-<h3 align="center">A passionate computer engineer from Cameroon</h3>
-
-- 🌱 I’m currently learning **Machine Learning**
-- 💻 I’m a **Software Developer** and **Project Analyst**
-- 🎥 I create mini-projects on [BORISTECH22 YouTube Channel](https://youtube.com/@boristech22?si=t6wZHYb2n9DW8SRU)
-- 📝 I write articles on [Hooyia.net](https://hooyia.net)
-- 💬 I am passionate about **AI and Machine Learning**
-- 📫 How to reach me: **fotsingtchoupe1@gmail.com**
+<h1 align="center">👋 Hi, I'm Fotsing Tchoupe Mathieu Boris</h1>
+<h3 align="center">💻 Passionate Computer Engineer from Cameroon</h3>
 
 ---
+
+## 🚀 About Me
+
+- 🌱 Currently exploring **Machine Learning** and **AI** technologies.
+- 💻 Professional **Software Developer** and **Project Analyst**.
+- 🎥 Sharing mini-projects on my [YouTube Channel - BORISTECH22](https://youtube.com/@boristech22?si=t6wZHYb2n9DW8SRU).
+- 📝 Writing tech articles on [Hooyia.net](https://hooyia.net).
+- 📫 Reach me via email: **fotsingtchoupe1@gmail.com**.
+
+---
+
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -28,11 +32,15 @@
 ![Python](https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=1E90FF)
 ![Django Rest](https://img.shields.io/badge/Django_Rest_Framework-1E90FF?style=flat-square&logo=django&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-1E90FF?style=flat-square&logo=php&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=1E90FF)
+![Livewire](https://img.shields.io/badge/Livewire-1E90FF?style=flat-square&logo=laravel&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=flat-square&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=flat-square&logo=css3&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=1E90FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1E90FF?style=flat-square&logo=tailwind-css&logoColor=black)
+
 
 #### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=1E90FF)
