@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Fotsing Tchoupe Mathieu Boris</h1>
 <h3 align="center">💻 Passionate Computer Engineer from Cameroon</h3>
 
----
+--- 
 
 ## 🚀 About Me
 
